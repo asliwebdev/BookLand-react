@@ -147,7 +147,7 @@ add products
 API KEYS
 Navigate to Docs
 Get API_KEY and Base ID and Table Name
-API Key = key9R5dZw5tTk4AXR; Base Id: appb27zIYvNU8pxk6;
+API Key; Base Id;
 add all to .env
 AIRTABLE_API_KEY=
 AIRTABLE_BASE=
